@@ -1,0 +1,39 @@
+Fünf Phasen:
+-Problemanalyse:
+Alle Fragen klären, was soll dass Programm losen?
+Entwurfsphase: Fraggen gruppieren oder zerlegen
+Implementierung: 
+Ausgewähltes Prinizip aus der Entwurfsphase verfolgen, und schrittweise verfeinern.
+Testen: Überprüfen, ob das Problem gelöst wurde.
+Dokumentation:
+Alle Arbeitssschritte Müssen Dokumentiert werden und der Programmcode kommentiert werden. Diese Phase läuft gleichzeitig mit allen anderen Phasen.
+
+Die Fünf Phasen können mir bei der Problemlösung helfen, indem es so einfacher ist Schritt für Schritt eine Aufgabe zu lösen. Das ist besonders sinvvoll im Kontext des Maschinellen Lernens, da man so Fehler leicht feststellen kann.
+
+PROBLEMANALYSE: Der Hamster soll den Berg erklimmen, und auf jedem Kästchen ein Korn hinlegen.
+Ausganfgssituation: Der Hamster ist im Tal des berges. Er hat unbegrenzt Körner im Maul.
+Weg dort hin: Er muss auf dem Weg Körner fallen lassen. ob er zurúck gehen darf ist nicht besagt. 
+Zielsituatiom: Der Hamster muss auf den Gipfel des Berges/
+
+
+ENTWURF: 
+Der Hamster schaut ob er nach vorne gehen kann, wenn nicht, würft er ein Korn ab und dreht sich so nach rechts dass er aufg die nächste Mauer zeigt. 
+Das wird wiederholt bis er oben angekommen ist.
+
+TESTEN: Der Hamster erreicht das Ziel wie erfordert.
+Ein PAP besitzt mehrere logische Blöcke, die man ausder Programmierung kennt. Verbunden werden sie mit Pfeilen.
+
+
+Aufgabe 5:sonders sinvvoll im Kontext des Maschinellen Lernens, da man so Fehler leicht feststellen kann.
+
+PROBLEMANALYSE: Der Hamster soll die Treppe erklimmen.
+Ausganfgssituation:Der Hamster befindet sich am Fusse der Treppe mit einer unbekannten Länge.
+Weg dorthin: Er muss die Treppe besteigen und oben ankommen.
+Zielsituation: Der Hamster muss auf den Gipfel der Treppe ankommen.
+
+
+ENTWURF: 
+Der Hamster schaut ob er nach vorne gehen kann, wenn nicht, und dreht sich so nach rechts dass er aufg die nächste Mauer zeigt. 
+Das wird wiederholt bis er oben angekommen ist.
+
+5.3: Dazu müssen wir ein nimm(); in die while schleife hinzufügen.
